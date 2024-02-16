@@ -4,4 +4,4 @@ En los últimos años, el Street Network Analysis se ha impuesto en la planifica
 
 Para poder llevar a cabo este cálculo me he apoyado en la librería OSMnx, que permite descargar, modelar, analizar y visualizar fácilmente variables geoespaciales procedentes de OpenStreetMap.
 
-El resultado del análisis señala que la ruta óptima es de aproximadamente 10,77 kilómetros y 11,15 minutos.
+El resultado del análisis señala que la ruta óptima es de aproximadamente 10,77 kilómetros de distancia y 11,15 minutos de duración.
